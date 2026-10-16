@@ -1,0 +1,1630 @@
+[
+  {
+    "id": "01-daily-reddit-digest",
+    "title": "Daily Reddit Digest",
+    "outcome": "Research & briefings",
+    "platforms": [
+      "OpenClaw"
+    ],
+    "role": "Personal/household",
+    "difficulty": "Technical",
+    "setup_time_estimate": "~1h (estimate)",
+    "tools": [
+      "OpenClaw"
+    ],
+    "playbook": [
+      "Install OpenClaw and connect a chat channel.",
+      "List your favourite subreddits and what you care about.",
+      "Schedule a daily curated digest summary."
+    ],
+    "source_url": "https://github.com/hesamsheikh/awesome-openclaw-usecases",
+    "source_credit": "awesome-openclaw-usecases (hesamsheikh, GitHub)",
+    "status": "community",
+    "notes": "Community list; skills/plugins are not security-audited by the list maintainer.",
+    "bulletin_url": "https://bulletinai.app/u/01-daily-reddit-digest"
+  },
+  {
+    "id": "02-daily-youtube-digest",
+    "title": "Daily YouTube Digest",
+    "outcome": "Research & briefings",
+    "platforms": [
+      "OpenClaw"
+    ],
+    "role": "Personal/household",
+    "difficulty": "Technical",
+    "setup_time_estimate": "~1h (estimate)",
+    "tools": [
+      "OpenClaw"
+    ],
+    "playbook": [
+      "List channels you follow.",
+      "Have the agent check for new videos daily.",
+      "Receive short summaries in chat."
+    ],
+    "source_url": "https://github.com/hesamsheikh/awesome-openclaw-usecases",
+    "source_credit": "awesome-openclaw-usecases (hesamsheikh, GitHub)",
+    "status": "community",
+    "notes": "Community list; skills/plugins are not security-audited by the list maintainer.",
+    "bulletin_url": "https://bulletinai.app/u/02-daily-youtube-digest"
+  },
+  {
+    "id": "03-inbox-de-clutter-newsletter-digest",
+    "title": "Inbox De-clutter: newsletter digest",
+    "outcome": "Inbox & email",
+    "platforms": [
+      "OpenClaw"
+    ],
+    "role": "Personal/household",
+    "difficulty": "Technical",
+    "setup_time_estimate": "~1h (estimate)",
+    "tools": [
+      "OpenClaw",
+      "Email account"
+    ],
+    "playbook": [
+      "Give the agent access to your newsletter emails.",
+      "Ask it to summarize newsletters.",
+      "Receive one digest email."
+    ],
+    "source_url": "https://github.com/hesamsheikh/awesome-openclaw-usecases",
+    "source_credit": "awesome-openclaw-usecases (hesamsheikh, GitHub)",
+    "status": "community",
+    "notes": "Community list; skills/plugins are not security-audited by the list maintainer.",
+    "bulletin_url": "https://bulletinai.app/u/03-inbox-de-clutter-newsletter-digest"
+  },
+  {
+    "id": "04-personal-crm-from-email-calendar",
+    "title": "Personal CRM from email & calendar",
+    "outcome": "Sales & CRM",
+    "platforms": [
+      "OpenClaw"
+    ],
+    "role": "Founder/solopreneur",
+    "difficulty": "Technical",
+    "setup_time_estimate": "~2h (estimate)",
+    "tools": [
+      "OpenClaw",
+      "Email",
+      "Calendar"
+    ],
+    "playbook": [
+      "Connect email and calendar.",
+      "Let the agent discover and track contacts.",
+      "Query contacts in natural language."
+    ],
+    "source_url": "https://github.com/hesamsheikh/awesome-openclaw-usecases",
+    "source_credit": "awesome-openclaw-usecases (hesamsheikh, GitHub)",
+    "status": "community",
+    "notes": "Community list; skills/plugins are not security-audited by the list maintainer.",
+    "bulletin_url": "https://bulletinai.app/u/04-personal-crm-from-email-calendar"
+  },
+  {
+    "id": "05-family-calendar-household-assistant",
+    "title": "Family Calendar & Household Assistant",
+    "outcome": "Personal life & health",
+    "platforms": [
+      "OpenClaw"
+    ],
+    "role": "Personal/household",
+    "difficulty": "Technical",
+    "setup_time_estimate": "~2h (estimate)",
+    "tools": [
+      "OpenClaw",
+      "Family calendars"
+    ],
+    "playbook": [
+      "Connect all family calendars.",
+      "Get a combined morning briefing.",
+      "Let it watch messages for appointments and track household inventory."
+    ],
+    "source_url": "https://github.com/hesamsheikh/awesome-openclaw-usecases",
+    "source_credit": "awesome-openclaw-usecases (hesamsheikh, GitHub)",
+    "status": "community",
+    "notes": "Community list; skills/plugins are not security-audited by the list maintainer.",
+    "bulletin_url": "https://bulletinai.app/u/05-family-calendar-household-assistant"
+  },
+  {
+    "id": "06-habit-tracker-accountability-coach",
+    "title": "Habit Tracker & Accountability Coach",
+    "outcome": "Personal life & health",
+    "platforms": [
+      "OpenClaw"
+    ],
+    "role": "Personal/household",
+    "difficulty": "Technical",
+    "setup_time_estimate": "~1h (estimate)",
+    "tools": [
+      "OpenClaw",
+      "Telegram or SMS"
+    ],
+    "playbook": [
+      "Define the habits to track.",
+      "Set proactive daily check-ins via Telegram/SMS.",
+      "Agent tracks streaks and adapts tone to progress."
+    ],
+    "source_url": "https://github.com/hesamsheikh/awesome-openclaw-usecases",
+    "source_credit": "awesome-openclaw-usecases (hesamsheikh, GitHub)",
+    "status": "community",
+    "notes": "Community list; skills/plugins are not security-audited by the list maintainer.",
+    "bulletin_url": "https://bulletinai.app/u/06-habit-tracker-accountability-coach"
+  },
+  {
+    "id": "07-health-symptom-tracker",
+    "title": "Health & Symptom Tracker",
+    "outcome": "Personal life & health",
+    "platforms": [
+      "OpenClaw"
+    ],
+    "role": "Personal/household",
+    "difficulty": "Technical",
+    "setup_time_estimate": "~1h (estimate)",
+    "tools": [
+      "OpenClaw"
+    ],
+    "playbook": [
+      "Log food intake and symptoms in chat.",
+      "Set scheduled check-in reminders.",
+      "Ask the agent to identify possible triggers."
+    ],
+    "source_url": "https://github.com/hesamsheikh/awesome-openclaw-usecases",
+    "source_credit": "awesome-openclaw-usecases (hesamsheikh, GitHub)",
+    "status": "community",
+    "notes": "Community list; skills/plugins are not security-audited by the list maintainer. Not medical advice.",
+    "bulletin_url": "https://bulletinai.app/u/07-health-symptom-tracker"
+  },
+  {
+    "id": "08-podcast-production-pipeline",
+    "title": "Podcast Production Pipeline",
+    "outcome": "Content & social",
+    "platforms": [
+      "OpenClaw"
+    ],
+    "role": "Marketer",
+    "difficulty": "Technical",
+    "setup_time_estimate": "~3h (estimate)",
+    "tools": [
+      "OpenClaw"
+    ],
+    "playbook": [
+      "Give the agent an episode topic.",
+      "Agent does guest research and an outline.",
+      "It produces show notes and social promo assets."
+    ],
+    "source_url": "https://github.com/hesamsheikh/awesome-openclaw-usecases",
+    "source_credit": "awesome-openclaw-usecases (hesamsheikh, GitHub)",
+    "status": "community",
+    "notes": "Community list; skills/plugins are not security-audited by the list maintainer.",
+    "bulletin_url": "https://bulletinai.app/u/08-podcast-production-pipeline"
+  },
+  {
+    "id": "09-multi-channel-ai-customer-service",
+    "title": "Multi-Channel AI Customer Service",
+    "outcome": "Business ops & analysis",
+    "platforms": [
+      "OpenClaw"
+    ],
+    "role": "Founder/solopreneur",
+    "difficulty": "Technical",
+    "setup_time_estimate": "3h+ (estimate)",
+    "tools": [
+      "OpenClaw",
+      "WhatsApp",
+      "Instagram",
+      "Email",
+      "Google Reviews"
+    ],
+    "playbook": [
+      "Connect your customer channels.",
+      "Unify them into one AI inbox.",
+      "Configure 24/7 auto-responses and review regularly."
+    ],
+    "source_url": "https://github.com/hesamsheikh/awesome-openclaw-usecases",
+    "source_credit": "awesome-openclaw-usecases (hesamsheikh, GitHub)",
+    "status": "community",
+    "notes": "Community list; skills/plugins are not security-audited by the list maintainer.",
+    "bulletin_url": "https://bulletinai.app/u/09-multi-channel-ai-customer-service"
+  },
+  {
+    "id": "10-event-guest-confirmation-by-phone",
+    "title": "Event Guest Confirmation by phone",
+    "outcome": "Calendar & planning",
+    "platforms": [
+      "OpenClaw"
+    ],
+    "role": "Ops/manager",
+    "difficulty": "Technical",
+    "setup_time_estimate": "~2h (estimate)",
+    "tools": [
+      "OpenClaw",
+      "AI voice calling"
+    ],
+    "playbook": [
+      "Provide the guest list.",
+      "Agent calls each guest to confirm attendance and collect notes.",
+      "Receive a compiled summary."
+    ],
+    "source_url": "https://github.com/hesamsheikh/awesome-openclaw-usecases",
+    "source_credit": "awesome-openclaw-usecases (hesamsheikh, GitHub)",
+    "status": "community",
+    "notes": "Community list; skills/plugins are not security-audited by the list maintainer.",
+    "bulletin_url": "https://bulletinai.app/u/10-event-guest-confirmation-by-phone"
+  },
+  {
+    "id": "11-meeting-notes-to-assigned-action-items",
+    "title": "Meeting Notes to Assigned Action Items",
+    "outcome": "Meetings & notes",
+    "platforms": [
+      "OpenClaw"
+    ],
+    "role": "Ops/manager",
+    "difficulty": "Technical",
+    "setup_time_estimate": "~2h (estimate)",
+    "tools": [
+      "OpenClaw",
+      "Jira, Linear or Todoist"
+    ],
+    "playbook": [
+      "Feed meeting transcripts to the agent.",
+      "Get a structured summary.",
+      "Agent creates tasks assigned to the right person."
+    ],
+    "source_url": "https://github.com/hesamsheikh/awesome-openclaw-usecases",
+    "source_credit": "awesome-openclaw-usecases (hesamsheikh, GitHub)",
+    "status": "community",
+    "notes": "Community list; skills/plugins are not security-audited by the list maintainer.",
+    "bulletin_url": "https://bulletinai.app/u/11-meeting-notes-to-assigned-action-items"
+  },
+  {
+    "id": "12-client-meeting-prep-briefing",
+    "title": "Client meeting prep briefing",
+    "outcome": "Meetings & notes",
+    "platforms": [
+      "ChatGPT"
+    ],
+    "role": "Sales",
+    "difficulty": "No-code",
+    "setup_time_estimate": "~10m (estimate)",
+    "tools": [
+      "ChatGPT agent mode",
+      "Calendar"
+    ],
+    "playbook": [
+      "Enable agent mode from the tools dropdown.",
+      "Prompt: \"Look at my calendar and brief me on upcoming client meetings based on recent news.\"",
+      "Review the report."
+    ],
+    "source_url": "https://openai.com/index/introducing-chatgpt-agent/",
+    "source_credit": "OpenAI — Introducing ChatGPT agent",
+    "status": "official example",
+    "notes": "",
+    "bulletin_url": "https://bulletinai.app/u/12-client-meeting-prep-briefing"
+  },
+  {
+    "id": "13-plan-and-shop-a-dinner-party",
+    "title": "Plan and shop a dinner party",
+    "outcome": "Personal life & health",
+    "platforms": [
+      "ChatGPT"
+    ],
+    "role": "Personal/household",
+    "difficulty": "No-code",
+    "setup_time_estimate": "~10m (estimate)",
+    "tools": [
+      "ChatGPT agent mode"
+    ],
+    "playbook": [
+      "Enable agent mode.",
+      "Prompt e.g.: \"Plan and buy ingredients to make Japanese breakfast for four.\"",
+      "Log in when prompted; take over the browser anytime."
+    ],
+    "source_url": "https://openai.com/index/introducing-chatgpt-agent/",
+    "source_credit": "OpenAI — Introducing ChatGPT agent",
+    "status": "official example",
+    "notes": "",
+    "bulletin_url": "https://bulletinai.app/u/13-plan-and-shop-a-dinner-party"
+  },
+  {
+    "id": "14-competitor-analysis-slide-deck",
+    "title": "Competitor analysis slide deck",
+    "outcome": "Research & briefings",
+    "platforms": [
+      "ChatGPT"
+    ],
+    "role": "Marketer",
+    "difficulty": "No-code",
+    "setup_time_estimate": "~15m (estimate)",
+    "tools": [
+      "ChatGPT agent mode"
+    ],
+    "playbook": [
+      "Enable agent mode.",
+      "Prompt: \"Analyze three competitors and create a slide deck.\"",
+      "Edit the resulting slides."
+    ],
+    "source_url": "https://openai.com/index/introducing-chatgpt-agent/",
+    "source_credit": "OpenAI — Introducing ChatGPT agent",
+    "status": "official example",
+    "notes": "",
+    "bulletin_url": "https://bulletinai.app/u/14-competitor-analysis-slide-deck"
+  },
+  {
+    "id": "15-weekday-competitor-market-briefing",
+    "title": "Weekday competitor & market briefing",
+    "outcome": "Research & briefings",
+    "platforms": [
+      "ChatGPT"
+    ],
+    "role": "Ops/manager",
+    "difficulty": "No-code",
+    "setup_time_estimate": "~5m (estimate)",
+    "tools": [
+      "ChatGPT Tasks"
+    ],
+    "playbook": [
+      "Create a scheduled Task.",
+      "Prompt: \"Every weekday at 7:30 AM, compile a concise 5-bullet summary of competitor news, market shifts, and regulatory updates with links and a 2-sentence 'Why it matters.'\""
+    ],
+    "source_url": "https://academy.openai.com/public/clubs/work-users-ynjqu/resources/tasks",
+    "source_credit": "OpenAI Academy — Tasks",
+    "status": "official example",
+    "notes": "",
+    "bulletin_url": "https://bulletinai.app/u/15-weekday-competitor-market-briefing"
+  },
+  {
+    "id": "16-weekly-key-account-news-scan",
+    "title": "Weekly key-account news scan",
+    "outcome": "Sales & CRM",
+    "platforms": [
+      "ChatGPT"
+    ],
+    "role": "Sales",
+    "difficulty": "No-code",
+    "setup_time_estimate": "~5m (estimate)",
+    "tools": [
+      "ChatGPT Tasks"
+    ],
+    "playbook": [
+      "Create a scheduled Task.",
+      "Prompt: \"Tuesdays at 9:00 AM, scan top 5 accounts for news on funding rounds, leadership changes, or major launches; summarize and flag possible revenue opportunities.\""
+    ],
+    "source_url": "https://academy.openai.com/public/clubs/work-users-ynjqu/resources/tasks",
+    "source_credit": "OpenAI Academy — Tasks",
+    "status": "official example",
+    "notes": "",
+    "bulletin_url": "https://bulletinai.app/u/16-weekly-key-account-news-scan"
+  },
+  {
+    "id": "17-meeting-notes-to-owner-task-list",
+    "title": "Meeting notes to owner task list",
+    "outcome": "Meetings & notes",
+    "platforms": [
+      "ChatGPT"
+    ],
+    "role": "Ops/manager",
+    "difficulty": "No-code",
+    "setup_time_estimate": "~2m (estimate)",
+    "tools": [
+      "ChatGPT"
+    ],
+    "playbook": [
+      "Prompt: \"Turn the following meeting notes into a clean task list. The tasks should be grouped by owner and include deadlines if mentioned. Notes: [paste text]\""
+    ],
+    "source_url": "https://academy.openai.com/public/clubs/work-users-ynjqu/resources/chatgpt-for-any-role",
+    "source_credit": "OpenAI Academy — ChatGPT for any role",
+    "status": "official example",
+    "notes": "",
+    "bulletin_url": "https://bulletinai.app/u/17-meeting-notes-to-owner-task-list"
+  },
+  {
+    "id": "18-vendor-quote-decision-matrix",
+    "title": "Vendor quote decision matrix",
+    "outcome": "Business ops & analysis",
+    "platforms": [
+      "ChatGPT"
+    ],
+    "role": "Ops/manager",
+    "difficulty": "Low-code",
+    "setup_time_estimate": "~30m (estimate)",
+    "tools": [
+      "ChatGPT workspace agents"
+    ],
+    "playbook": [
+      "Collect vendor quotes.",
+      "Have the agent compare them and build a decision matrix.",
+      "Draft the PO email."
+    ],
+    "source_url": "https://openai.com/academy/workspace-agents/",
+    "source_credit": "OpenAI Academy — Workspace agents",
+    "status": "official example",
+    "notes": "",
+    "bulletin_url": "https://bulletinai.app/u/18-vendor-quote-decision-matrix"
+  },
+  {
+    "id": "19-quickly-prep-for-your-week",
+    "title": "Quickly prep for your week",
+    "outcome": "Calendar & planning",
+    "platforms": [
+      "Claude"
+    ],
+    "role": "Founder/solopreneur",
+    "difficulty": "Low-code",
+    "setup_time_estimate": "~15m (estimate)",
+    "tools": [
+      "Claude",
+      "Calendar & mail connectors"
+    ],
+    "playbook": [
+      "Connect calendar and mail connectors.",
+      "Ask Claude to prepare and prioritize your upcoming week."
+    ],
+    "source_url": "https://www.anthropic.com/learn/claude-for-you",
+    "source_credit": "Anthropic — Claude for personal use",
+    "status": "official example",
+    "notes": "",
+    "bulletin_url": "https://bulletinai.app/u/19-quickly-prep-for-your-week"
+  },
+  {
+    "id": "20-compare-competing-vendor-proposals",
+    "title": "Compare competing vendor proposals",
+    "outcome": "Business ops & analysis",
+    "platforms": [
+      "Claude"
+    ],
+    "role": "Ops/manager",
+    "difficulty": "No-code",
+    "setup_time_estimate": "~10m (estimate)",
+    "tools": [
+      "Claude"
+    ],
+    "playbook": [
+      "Upload vendor proposals in any format.",
+      "Ask for a normalized comparison spreadsheet of pricing, contract terms and feature differences."
+    ],
+    "source_url": "https://www.anthropic.com/learn/claude-for-you",
+    "source_credit": "Anthropic — Claude for personal use",
+    "status": "official example",
+    "notes": "",
+    "bulletin_url": "https://bulletinai.app/u/20-compare-competing-vendor-proposals"
+  },
+  {
+    "id": "21-turn-emails-into-an-event-tracker",
+    "title": "Turn emails into an event tracker",
+    "outcome": "Calendar & planning",
+    "platforms": [
+      "Claude"
+    ],
+    "role": "Personal/household",
+    "difficulty": "No-code",
+    "setup_time_estimate": "~10m (estimate)",
+    "tools": [
+      "Claude"
+    ],
+    "playbook": [
+      "Share the email threads.",
+      "Ask Claude to extract dates, locations and logistics into a tracker."
+    ],
+    "source_url": "https://claude.com/resources/use-cases",
+    "source_credit": "Claude — Use cases gallery",
+    "status": "official example",
+    "notes": "",
+    "bulletin_url": "https://bulletinai.app/u/21-turn-emails-into-an-event-tracker"
+  },
+  {
+    "id": "22-digital-recipe-cards-from-handwriting",
+    "title": "Digital recipe cards from handwriting",
+    "outcome": "Personal life & health",
+    "platforms": [
+      "Claude"
+    ],
+    "role": "Personal/household",
+    "difficulty": "No-code",
+    "setup_time_estimate": "~5m (estimate)",
+    "tools": [
+      "Claude"
+    ],
+    "playbook": [
+      "Photograph handwritten family recipes.",
+      "Ask Claude to format them as digital recipe cards to save and share."
+    ],
+    "source_url": "https://claude.com/resources/use-cases",
+    "source_credit": "Claude — Use cases gallery",
+    "status": "official example",
+    "notes": "",
+    "bulletin_url": "https://bulletinai.app/u/22-digital-recipe-cards-from-handwriting"
+  },
+  {
+    "id": "23-plan-your-syllabus",
+    "title": "Plan your syllabus",
+    "outcome": "Learning & education",
+    "platforms": [
+      "Claude"
+    ],
+    "role": "Educator/student",
+    "difficulty": "No-code",
+    "setup_time_estimate": "~15m (estimate)",
+    "tools": [
+      "Claude"
+    ],
+    "playbook": [
+      "Attach your syllabus.",
+      "Ask which weeks are locked by prerequisites and which can be rearranged."
+    ],
+    "source_url": "https://claude.com/resources/use-cases-category/education",
+    "source_credit": "Claude — Education use cases",
+    "status": "official example",
+    "notes": "",
+    "bulletin_url": "https://bulletinai.app/u/23-plan-your-syllabus"
+  },
+  {
+    "id": "24-practice-case-interviews-with-feedback",
+    "title": "Practice case interviews with feedback",
+    "outcome": "Learning & education",
+    "platforms": [
+      "Claude"
+    ],
+    "role": "Educator/student",
+    "difficulty": "No-code",
+    "setup_time_estimate": "~5m (estimate)",
+    "tools": [
+      "Claude"
+    ],
+    "playbook": [
+      "Ask Claude to run a consulting case interview.",
+      "Work through it with structured frameworks and request feedback."
+    ],
+    "source_url": "https://claude.com/resources/use-cases-category/education",
+    "source_credit": "Claude — Education use cases",
+    "status": "official example",
+    "notes": "",
+    "bulletin_url": "https://bulletinai.app/u/24-practice-case-interviews-with-feedback"
+  },
+  {
+    "id": "25-shared-brand-voice-copywriter-gem",
+    "title": "Shared brand-voice copywriter Gem",
+    "outcome": "Content & social",
+    "platforms": [
+      "Gemini"
+    ],
+    "role": "Marketer",
+    "difficulty": "No-code",
+    "setup_time_estimate": "~20m (estimate)",
+    "tools": [
+      "Gemini Gems",
+      "Google Drive"
+    ],
+    "playbook": [
+      "Create a custom Gem at gemini.google.com/gems/create.",
+      "Attach your brand playbook (up to 10 files).",
+      "Share the Gem with your team like a Google Doc."
+    ],
+    "source_url": "https://workspace.google.com/blog/product-announcements/5-ways-to-boost-your-teams-productivity-with-the-gemini-app-featuring-new-sharable-gems",
+    "source_credit": "Google Workspace Blog",
+    "status": "official example",
+    "notes": "",
+    "bulletin_url": "https://bulletinai.app/u/25-shared-brand-voice-copywriter-gem"
+  },
+  {
+    "id": "26-interview-coach-gem",
+    "title": "Interview coach Gem",
+    "outcome": "Learning & education",
+    "platforms": [
+      "Gemini"
+    ],
+    "role": "Educator/student",
+    "difficulty": "No-code",
+    "setup_time_estimate": "~10m (estimate)",
+    "tools": [
+      "Gemini Gems"
+    ],
+    "playbook": [
+      "Create a Gem.",
+      "Attach your resume and the job description.",
+      "Practice interview questions with it."
+    ],
+    "source_url": "https://workspace.google.com/blog/product-announcements/new-gemini-gems-deeper-knowledge-and-business-context",
+    "source_credit": "Google Workspace Blog",
+    "status": "official example",
+    "notes": "",
+    "bulletin_url": "https://bulletinai.app/u/26-interview-coach-gem"
+  },
+  {
+    "id": "27-research-docs-to-podcast-style-overview",
+    "title": "Research docs to podcast-style overview",
+    "outcome": "Research & briefings",
+    "platforms": [
+      "Gemini"
+    ],
+    "role": "Founder/solopreneur",
+    "difficulty": "No-code",
+    "setup_time_estimate": "~10m (estimate)",
+    "tools": [
+      "Gemini Notebook"
+    ],
+    "playbook": [
+      "Add research documents to a notebook.",
+      "Click Audio Overview; prompt: \"Generate a 15-minute podcast from @[Research Document] and @[interviews].\""
+    ],
+    "source_url": "https://workspace.google.com/learning/report/content/geminiatworkapracticalguide",
+    "source_credit": "Google Workspace — Gemini at work guide",
+    "status": "official example",
+    "notes": "",
+    "bulletin_url": "https://bulletinai.app/u/27-research-docs-to-podcast-style-overview"
+  },
+  {
+    "id": "28-ai-gmail-triage-with-draft-replies",
+    "title": "AI Gmail triage with draft replies",
+    "outcome": "Inbox & email",
+    "platforms": [
+      "n8n"
+    ],
+    "role": "Founder/solopreneur",
+    "difficulty": "Low-code",
+    "setup_time_estimate": "~45m (estimate)",
+    "tools": [
+      "n8n",
+      "Gmail",
+      "OpenAI API",
+      "Google Sheets"
+    ],
+    "playbook": [
+      "Import the template.",
+      "Add Gmail, OpenAI and Sheets credentials; set business context and signature.",
+      "Run in dry-run mode first, then enable. Replies are saved as drafts only."
+    ],
+    "source_url": "https://n8n.io/workflows/20570-triage-gmail-inbox-emails-and-draft-replies-with-openai-and-google-sheets/",
+    "source_credit": "n8n community template",
+    "status": "community",
+    "notes": "",
+    "bulletin_url": "https://bulletinai.app/u/28-ai-gmail-triage-with-draft-replies"
+  },
+  {
+    "id": "29-email-summaries-labels-logged-to-notion-sheets",
+    "title": "Email summaries & labels logged to Notion/Sheets",
+    "outcome": "Inbox & email",
+    "platforms": [
+      "n8n"
+    ],
+    "role": "Founder/solopreneur",
+    "difficulty": "Low-code",
+    "setup_time_estimate": "~1h (estimate)",
+    "tools": [
+      "n8n",
+      "Gmail",
+      "Gemini API",
+      "Notion",
+      "Google Sheets"
+    ],
+    "playbook": [
+      "Import the template.",
+      "Connect Gmail, Gemini, Notion and Sheets.",
+      "Each email is summarized, labeled and logged."
+    ],
+    "source_url": "https://n8n.io/workflows/9679-automated-email-management-with-gemini-ai-gmail-summarizing-labeling-and-notionsheets-logging/",
+    "source_credit": "n8n community template",
+    "status": "community",
+    "notes": "",
+    "bulletin_url": "https://bulletinai.app/u/29-email-summaries-labels-logged-to-notion-sheets"
+  },
+  {
+    "id": "30-fathom-meeting-summaries-onto-crm-leads",
+    "title": "Fathom meeting summaries onto CRM leads",
+    "outcome": "Sales & CRM",
+    "platforms": [
+      "Zapier"
+    ],
+    "role": "Sales",
+    "difficulty": "Low-code",
+    "setup_time_estimate": "~20m (estimate)",
+    "tools": [
+      "Zapier",
+      "Fathom",
+      "Close CRM"
+    ],
+    "playbook": [
+      "Trigger on a new Fathom AI summary.",
+      "Find the lead in Close by invitee email.",
+      "Create a note with the summary and recording link (only if a lead matches)."
+    ],
+    "source_url": "https://zapier.com/automations/sales/crm-management/activity-logging/add-ai-meeting-summaries-to-crm-lead-records",
+    "source_credit": "Zapier automation template",
+    "status": "official example",
+    "notes": "",
+    "bulletin_url": "https://bulletinai.app/u/30-fathom-meeting-summaries-onto-crm-leads"
+  },
+  {
+    "id": "31-summarize-emails-and-post-to-slack",
+    "title": "Summarize emails and post to Slack",
+    "outcome": "Inbox & email",
+    "platforms": [
+      "Make"
+    ],
+    "role": "Ops/manager",
+    "difficulty": "Low-code",
+    "setup_time_estimate": "~20m (estimate)",
+    "tools": [
+      "Make",
+      "Gmail",
+      "OpenAI",
+      "Slack"
+    ],
+    "playbook": [
+      "Use the Make template.",
+      "Connect Gmail, OpenAI and Slack.",
+      "Email summaries are shared to a Slack channel."
+    ],
+    "source_url": "https://www.make.com/templates/11243-summarize-emails-with-openai-and-send-it-on-slack",
+    "source_credit": "Make template",
+    "status": "official example",
+    "notes": "",
+    "bulletin_url": "https://bulletinai.app/u/31-summarize-emails-and-post-to-slack"
+  },
+  {
+    "id": "32-sheets-content-calendar-to-scheduled-social-posts",
+    "title": "Sheets content calendar to scheduled social posts",
+    "outcome": "Content & social",
+    "platforms": [
+      "Make"
+    ],
+    "role": "Marketer",
+    "difficulty": "Low-code",
+    "setup_time_estimate": "~30m (estimate)",
+    "tools": [
+      "Make",
+      "Google Sheets",
+      "OpenAI",
+      "Buffer"
+    ],
+    "playbook": [
+      "Keep post ideas in Google Sheets.",
+      "Template periodically filters rows and generates posts with OpenAI.",
+      "Posts are scheduled via Buffer."
+    ],
+    "source_url": "https://www.make.com/templates/14959-filter-rows-in-google-sheets-and-create-social-media-posts-with-chatgpt-and-buffer",
+    "source_credit": "Make template",
+    "status": "official example",
+    "notes": "",
+    "bulletin_url": "https://bulletinai.app/u/32-sheets-content-calendar-to-scheduled-social-posts"
+  },
+  {
+    "id": "33-weekly-newsletter-digest-drafted-from-rss",
+    "title": "Weekly newsletter digest drafted from RSS",
+    "outcome": "Content & social",
+    "platforms": [
+      "n8n"
+    ],
+    "role": "Marketer",
+    "difficulty": "Low-code",
+    "setup_time_estimate": "~45m (estimate)",
+    "tools": [
+      "n8n",
+      "RSS feeds",
+      "OpenAI API",
+      "Kit or Gmail"
+    ],
+    "playbook": [
+      "Import the template; list your RSS feeds.",
+      "Runs Mondays: keeps last-7-day stories (max 25), drafts grouped HTML via OpenAI.",
+      "Saves a Kit draft broadcast or emails it to you to review."
+    ],
+    "source_url": "https://n8n.io/workflows/17539-draft-weekly-newsletter-digests-from-rss-feeds-with-openai-and-kit/",
+    "source_credit": "n8n community template",
+    "status": "community",
+    "notes": "",
+    "bulletin_url": "https://bulletinai.app/u/33-weekly-newsletter-digest-drafted-from-rss"
+  },
+  {
+    "id": "34-daily-ai-news-to-linkedin-post-draft",
+    "title": "Daily AI news to LinkedIn post draft",
+    "outcome": "Content & social",
+    "platforms": [
+      "n8n"
+    ],
+    "role": "Founder/solopreneur",
+    "difficulty": "Low-code",
+    "setup_time_estimate": "~30m (estimate)",
+    "tools": [
+      "n8n",
+      "RSS feeds",
+      "OpenAI API",
+      "Gmail"
+    ],
+    "playbook": [
+      "Import the template; add OpenAI and Gmail.",
+      "Add your tone/style prompt.",
+      "Each morning a LinkedIn post draft from last-24h articles is emailed to you for review."
+    ],
+    "source_url": "https://n8n.io/workflows/5068-daily-ai-news-digest-to-linkedin-posts-with-openai-gpt-and-rss-feeds/",
+    "source_credit": "n8n community template",
+    "status": "community",
+    "notes": "",
+    "bulletin_url": "https://bulletinai.app/u/34-daily-ai-news-to-linkedin-post-draft"
+  },
+  {
+    "id": "35-enrich-new-leads-with-chatgpt-create-in-salesforce",
+    "title": "Enrich new leads with ChatGPT, create in Salesforce, ping Slack",
+    "outcome": "Sales & CRM",
+    "platforms": [
+      "Make"
+    ],
+    "role": "Sales",
+    "difficulty": "Low-code",
+    "setup_time_estimate": "~30m (estimate)",
+    "tools": [
+      "Make",
+      "OpenAI",
+      "Salesforce",
+      "Slack"
+    ],
+    "playbook": [
+      "Use the Make template.",
+      "Connect OpenAI, Salesforce and Slack.",
+      "New lead company data is enriched with ChatGPT, the lead is created in Salesforce and the team is notified in Slack."
+    ],
+    "source_url": "https://www.make.com/templates/11998-enrich-lead-s-company-data-with-chatgpt-create-leads-in-salesforce-and-send-slack-notifications",
+    "source_credit": "Make template",
+    "status": "official example",
+    "notes": "",
+    "bulletin_url": "https://bulletinai.app/u/35-enrich-new-leads-with-chatgpt-create-in-salesforce"
+  },
+  {
+    "id": "36-reply-to-google-business-reviews-with-ai",
+    "title": "Reply to Google Business reviews with AI",
+    "outcome": "Business ops & analysis",
+    "platforms": [
+      "Make"
+    ],
+    "role": "Founder/solopreneur",
+    "difficulty": "Low-code",
+    "setup_time_estimate": "~20m (estimate)",
+    "tools": [
+      "Make",
+      "Google My Business",
+      "OpenAI"
+    ],
+    "playbook": [
+      "Use the Make template.",
+      "Connect Google My Business and OpenAI.",
+      "New reviews get AI-generated responses; review replies before relying on them."
+    ],
+    "source_url": "https://www.make.com/templates/15259-respond-to-google-my-business-reviews-using-openai-gpt-3-completions",
+    "source_credit": "Make template",
+    "status": "official example",
+    "notes": "",
+    "bulletin_url": "https://bulletinai.app/u/36-reply-to-google-business-reviews-with-ai"
+  },
+  {
+    "id": "37-log-google-reviews-to-airtable-with-draft-chatgpt-",
+    "title": "Log Google reviews to Airtable with draft ChatGPT replies",
+    "outcome": "Business ops & analysis",
+    "platforms": [
+      "Make"
+    ],
+    "role": "Ops/manager",
+    "difficulty": "Low-code",
+    "setup_time_estimate": "~30m (estimate)",
+    "tools": [
+      "Make",
+      "Google My Business",
+      "Airtable",
+      "OpenAI"
+    ],
+    "playbook": [
+      "Use the Make template.",
+      "Monitor new reviews.",
+      "Create Airtable records with a ChatGPT-drafted response for your team to approve."
+    ],
+    "source_url": "https://www.make.com/templates/15168-monitor-google-my-business-reviews-and-create-records-in-airtable-with-chatgpt-responses",
+    "source_credit": "Make template",
+    "status": "official example",
+    "notes": "",
+    "bulletin_url": "https://bulletinai.app/u/37-log-google-reviews-to-airtable-with-draft-chatgpt-"
+  },
+  {
+    "id": "38-turn-a-monitored-website-into-social-posts",
+    "title": "Turn a monitored website into social posts",
+    "outcome": "Content & social",
+    "platforms": [
+      "Make"
+    ],
+    "role": "Marketer",
+    "difficulty": "Low-code",
+    "setup_time_estimate": "~45m (estimate)",
+    "tools": [
+      "Make",
+      "Browse AI",
+      "OpenAI",
+      "LinkedIn"
+    ],
+    "playbook": [
+      "Set up a Browse AI monitor on the site.",
+      "Use the Make template to summarize new content with ChatGPT.",
+      "Create social posts automatically."
+    ],
+    "source_url": "https://www.make.com/templates/12103-summarize-content-with-chatgpt-from-a-monitored-site-using-browse-ai-and-create-a-social-media-posts",
+    "source_credit": "Make template",
+    "status": "official example",
+    "notes": "",
+    "bulletin_url": "https://bulletinai.app/u/38-turn-a-monitored-website-into-social-posts"
+  },
+  {
+    "id": "39-new-wordpress-post-to-facebook-page-post",
+    "title": "New WordPress post to Facebook Page post",
+    "outcome": "Content & social",
+    "platforms": [
+      "Make"
+    ],
+    "role": "Marketer",
+    "difficulty": "Low-code",
+    "setup_time_estimate": "~20m (estimate)",
+    "tools": [
+      "Make",
+      "WordPress",
+      "OpenAI",
+      "Facebook Pages"
+    ],
+    "playbook": [
+      "Use the Make template.",
+      "Watch for new WordPress posts.",
+      "OpenAI writes an engaging post and publishes it to your Facebook Page."
+    ],
+    "source_url": "https://www.make.com/templates/13664-create-engaging-social-media-posts-using-wordpress-and-chatgpt",
+    "source_credit": "Make template",
+    "status": "official example",
+    "notes": "",
+    "bulletin_url": "https://bulletinai.app/u/39-new-wordpress-post-to-facebook-page-post"
+  },
+  {
+    "id": "40-draft-blog-posts-from-form-submissions",
+    "title": "Draft blog posts from form submissions",
+    "outcome": "Content & social",
+    "platforms": [
+      "Zapier"
+    ],
+    "role": "Founder/solopreneur",
+    "difficulty": "Low-code",
+    "setup_time_estimate": "~20m (estimate)",
+    "tools": [
+      "Zapier",
+      "Form tool",
+      "ChatGPT",
+      "WordPress or Google Docs"
+    ],
+    "playbook": [
+      "Use the Zapier automation.",
+      "Submit topic ideas via a form.",
+      "AI drafts a blog post into WordPress or Google Docs for review."
+    ],
+    "source_url": "https://zapier.com/automations/marketing/content-marketing/content-generation/create-draft-blog-posts-from-form-submissions-for-founders",
+    "source_credit": "Zapier automation template",
+    "status": "official example",
+    "notes": "",
+    "bulletin_url": "https://bulletinai.app/u/40-draft-blog-posts-from-form-submissions"
+  },
+  {
+    "id": "41-classify-google-forms-responses-with-chatgpt",
+    "title": "Classify Google Forms responses with ChatGPT",
+    "outcome": "Business ops & analysis",
+    "platforms": [
+      "Zapier"
+    ],
+    "role": "Ops/manager",
+    "difficulty": "Low-code",
+    "setup_time_estimate": "~15m (estimate)",
+    "tools": [
+      "Zapier",
+      "Google Forms",
+      "ChatGPT"
+    ],
+    "playbook": [
+      "Use the Zapier template.",
+      "Connect Google Forms and ChatGPT.",
+      "Each new response is classified automatically."
+    ],
+    "source_url": "https://zapier.com/apps/chatgpt/integrations/google-forms/255593615/classify-new-google-forms-responses-with-chatgpt",
+    "source_credit": "Zapier template",
+    "status": "official example",
+    "notes": "",
+    "bulletin_url": "https://bulletinai.app/u/41-classify-google-forms-responses-with-chatgpt"
+  },
+  {
+    "id": "42-structured-feedback-records-from-intake-forms",
+    "title": "Structured feedback records from intake forms",
+    "outcome": "Business ops & analysis",
+    "platforms": [
+      "Zapier"
+    ],
+    "role": "Ops/manager",
+    "difficulty": "Low-code",
+    "setup_time_estimate": "~20m (estimate)",
+    "tools": [
+      "Zapier",
+      "Intake form",
+      "Google Sheets or Zapier Tables"
+    ],
+    "playbook": [
+      "Use the Zapier automation.",
+      "New feedback is categorized (theme, sentiment, request type).",
+      "A structured record is logged for review."
+    ],
+    "source_url": "https://zapier.com/automations/product/product-feedback-management/feedback-categorization-routing/add-structured-feedback-records-from-new-intake-forms",
+    "source_credit": "Zapier automation template",
+    "status": "official example",
+    "notes": "",
+    "bulletin_url": "https://bulletinai.app/u/42-structured-feedback-records-from-intake-forms"
+  },
+  {
+    "id": "43-transcribe-sales-calls-and-score-lead-qualificatio",
+    "title": "Transcribe sales calls and score lead qualification",
+    "outcome": "Sales & CRM",
+    "platforms": [
+      "Zapier"
+    ],
+    "role": "Sales",
+    "difficulty": "Low-code",
+    "setup_time_estimate": "~30m (estimate)",
+    "tools": [
+      "Zapier",
+      "Call recordings",
+      "AI by Zapier",
+      "Webhook"
+    ],
+    "playbook": [
+      "Use the Zapier template.",
+      "Recorded calls are transcribed.",
+      "AI analyzes lead qualification and sends results via webhook."
+    ],
+    "source_url": "https://zapier.com/templates/details/7890cd8b687c9f3fc78336b98bdf8a7d5dd4b20785229e5d18eef7f892e2087d",
+    "source_credit": "Zapier template",
+    "status": "official example",
+    "notes": "",
+    "bulletin_url": "https://bulletinai.app/u/43-transcribe-sales-calls-and-score-lead-qualificatio"
+  },
+  {
+    "id": "44-receipt-photos-to-an-expense-sheet",
+    "title": "Receipt photos to an expense sheet",
+    "outcome": "Business ops & analysis",
+    "platforms": [
+      "n8n"
+    ],
+    "role": "Founder/solopreneur",
+    "difficulty": "Low-code",
+    "setup_time_estimate": "~30m (estimate)",
+    "tools": [
+      "n8n",
+      "Google Drive",
+      "OpenAI",
+      "Google Sheets",
+      "Gmail"
+    ],
+    "playbook": [
+      "Import the template (includes a step-by-step video).",
+      "Pick a Drive folder; copy the template sheet.",
+      "Drop receipts in the folder: vendor, date, items and total are logged and you get an email summary."
+    ],
+    "source_url": "https://n8n.io/workflows/12954-receipt-processing-ai-agent-with-step-by-step-video/",
+    "source_credit": "n8n community template",
+    "status": "community",
+    "notes": "",
+    "bulletin_url": "https://bulletinai.app/u/44-receipt-photos-to-an-expense-sheet"
+  },
+  {
+    "id": "45-invoice-pdfs-to-booking-list-with-auto-filing",
+    "title": "Invoice PDFs to booking list with auto-filing",
+    "outcome": "Business ops & analysis",
+    "platforms": [
+      "n8n"
+    ],
+    "role": "Founder/solopreneur",
+    "difficulty": "Technical",
+    "setup_time_estimate": "~1h (estimate)",
+    "tools": [
+      "n8n",
+      "Google Drive",
+      "OpenAI",
+      "Google Sheets"
+    ],
+    "playbook": [
+      "Import the template; set input/output folders and chart-of-accounts sheet.",
+      "Upload an invoice PDF.",
+      "AI extracts fields, assigns a booking account, renames/files the PDF and updates the sheet."
+    ],
+    "source_url": "https://n8n.io/workflows/11058-extract-and-process-invoices-with-gpt-4-google-drive-and-google-sheets/",
+    "source_credit": "n8n community template",
+    "status": "community",
+    "notes": "",
+    "bulletin_url": "https://bulletinai.app/u/45-invoice-pdfs-to-booking-list-with-auto-filing"
+  },
+  {
+    "id": "46-chat-upload-invoices-with-gemini-duplicate-checks-",
+    "title": "Chat-upload invoices with Gemini, duplicate checks and email alerts",
+    "outcome": "Business ops & analysis",
+    "platforms": [
+      "n8n",
+      "Gemini"
+    ],
+    "role": "Ops/manager",
+    "difficulty": "Low-code",
+    "setup_time_estimate": "~45m (estimate)",
+    "tools": [
+      "n8n",
+      "Gemini API",
+      "Google Sheets",
+      "Google Drive",
+      "Gmail"
+    ],
+    "playbook": [
+      "Import the template.",
+      "Upload an invoice via chat.",
+      "Gemini extracts and validates fields, checks Sheets for duplicates, logs it and emails the outcome."
+    ],
+    "source_url": "https://n8n.io/workflows/8548-extract-and-process-invoices-with-gemini-ai-google-sheets-and-gmail-notifications/",
+    "source_credit": "n8n community template",
+    "status": "community",
+    "notes": "",
+    "bulletin_url": "https://bulletinai.app/u/46-chat-upload-invoices-with-gemini-duplicate-checks-"
+  },
+  {
+    "id": "47-whatsapp-receipt-bot",
+    "title": "WhatsApp receipt bot",
+    "outcome": "Personal life & health",
+    "platforms": [
+      "n8n"
+    ],
+    "role": "Founder/solopreneur",
+    "difficulty": "Technical",
+    "setup_time_estimate": "~2h (estimate)",
+    "tools": [
+      "n8n",
+      "WhatsApp Cloud API",
+      "Google Drive",
+      "Google Sheets",
+      "OpenAI"
+    ],
+    "playbook": [
+      "Import the template; configure WhatsApp Cloud API webhook.",
+      "Send a receipt photo on WhatsApp.",
+      "It is stored, parsed, logged to Sheets and summarized back to you."
+    ],
+    "source_url": "https://n8n.io/workflows/9285-process-receipt-images-with-gpt-4o-mini-whatsapp-and-google-sheets-automation/",
+    "source_credit": "n8n community template",
+    "status": "community",
+    "notes": "",
+    "bulletin_url": "https://bulletinai.app/u/47-whatsapp-receipt-bot"
+  },
+  {
+    "id": "48-weekly-ai-curated-rss-digest-to-your-inbox",
+    "title": "Weekly AI-curated RSS digest to your inbox",
+    "outcome": "Research & briefings",
+    "platforms": [
+      "n8n"
+    ],
+    "role": "Personal/household",
+    "difficulty": "Low-code",
+    "setup_time_estimate": "~30m (estimate)",
+    "tools": [
+      "n8n",
+      "RSS feeds",
+      "OpenAI",
+      "Gmail"
+    ],
+    "playbook": [
+      "Import the template; list your feeds and recipient.",
+      "Runs Mondays 08:00: dedupes, keeps last 7 days, max 15 articles.",
+      "OpenAI groups them into 2–4 themes and emails an HTML digest."
+    ],
+    "source_url": "https://n8n.io/workflows/16037-send-a-weekly-aicurated-rss-digest-email-with-openai-and-gmail/",
+    "source_credit": "n8n community template",
+    "status": "community",
+    "notes": "",
+    "bulletin_url": "https://bulletinai.app/u/48-weekly-ai-curated-rss-digest-to-your-inbox"
+  },
+  {
+    "id": "49-ai-meeting-scheduler-you-cc-on-email",
+    "title": "AI meeting scheduler you CC on email",
+    "outcome": "Calendar & planning",
+    "platforms": [
+      "Lindy"
+    ],
+    "role": "Founder/solopreneur",
+    "difficulty": "No-code",
+    "setup_time_estimate": "~15m (estimate)",
+    "tools": [
+      "Lindy",
+      "Email",
+      "Calendar"
+    ],
+    "playbook": [
+      "Install the Meeting Scheduler template.",
+      "CC Lindy on emails like you would an EA.",
+      "It checks availability and books the meeting."
+    ],
+    "source_url": "https://www.lindy.ai/templates/meeting-scheduler",
+    "source_credit": "Lindy template",
+    "status": "official example",
+    "notes": "",
+    "bulletin_url": "https://bulletinai.app/u/49-ai-meeting-scheduler-you-cc-on-email"
+  },
+  {
+    "id": "50-resume-screening-and-top-candidate-alerts",
+    "title": "Resume screening and top-candidate alerts",
+    "outcome": "Business ops & analysis",
+    "platforms": [
+      "Lindy"
+    ],
+    "role": "Ops/manager",
+    "difficulty": "Low-code",
+    "setup_time_estimate": "~1h (estimate)",
+    "tools": [
+      "Lindy",
+      "Gmail or Google Drive",
+      "Google Sheets",
+      "Slack"
+    ],
+    "playbook": [
+      "Use the resume screening template.",
+      "Receive resumes by email/Drive; AI scores by role.",
+      "Log scores to a sheet and alert Slack on high scores. Keep a human in the hiring decision."
+    ],
+    "source_url": "https://docs.lindy.ai/use-cases/hr/resume-screening",
+    "source_credit": "Lindy docs",
+    "status": "official example",
+    "notes": "",
+    "bulletin_url": "https://bulletinai.app/u/50-resume-screening-and-top-candidate-alerts"
+  },
+  {
+    "id": "51-catch-me-up-briefing-after-time-off",
+    "title": "'Catch me up' briefing after time off",
+    "outcome": "Research & briefings",
+    "platforms": [
+      "Lindy"
+    ],
+    "role": "Ops/manager",
+    "difficulty": "No-code",
+    "setup_time_estimate": "~15m (estimate)",
+    "tools": [
+      "Lindy",
+      "Slack",
+      "Email",
+      "Calendar"
+    ],
+    "playbook": [
+      "Connect Slack, email and meetings.",
+      "Ask Lindy to catch you up.",
+      "Get one briefing of what happened while you were out."
+    ],
+    "source_url": "https://www.lindy.ai/use-cases",
+    "source_credit": "Lindy use cases",
+    "status": "official example",
+    "notes": "",
+    "bulletin_url": "https://bulletinai.app/u/51-catch-me-up-briefing-after-time-off"
+  },
+  {
+    "id": "52-close-the-loop-after-a-meeting",
+    "title": "Close the loop after a meeting",
+    "outcome": "Meetings & notes",
+    "platforms": [
+      "Lindy"
+    ],
+    "role": "Ops/manager",
+    "difficulty": "No-code",
+    "setup_time_estimate": "~20m (estimate)",
+    "tools": [
+      "Lindy",
+      "Calendar",
+      "Email",
+      "Docs"
+    ],
+    "playbook": [
+      "Connect calendar and email.",
+      "After a meeting Lindy files action items, sends the follow-up, updates docs and schedules the next check-in."
+    ],
+    "source_url": "https://www.lindy.ai/use-cases",
+    "source_credit": "Lindy use cases",
+    "status": "official example",
+    "notes": "",
+    "bulletin_url": "https://bulletinai.app/u/52-close-the-loop-after-a-meeting"
+  },
+  {
+    "id": "53-ai-sales-researcher-pre-call-briefs",
+    "title": "AI sales researcher pre-call briefs",
+    "outcome": "Sales & CRM",
+    "platforms": [
+      "Relevance AI"
+    ],
+    "role": "Sales",
+    "difficulty": "No-code",
+    "setup_time_estimate": "~20m (estimate)",
+    "tools": [
+      "Relevance AI"
+    ],
+    "playbook": [
+      "Clone the free Sales Researcher agent.",
+      "Give it a prospect.",
+      "Get a sourced pre-call brief (LinkedIn, web, hiring signals); optionally add Apollo/CRM tools."
+    ],
+    "source_url": "https://marketplace.relevanceai.com/agents/sales-researcher",
+    "source_credit": "Relevance AI marketplace",
+    "status": "official example",
+    "notes": "",
+    "bulletin_url": "https://bulletinai.app/u/53-ai-sales-researcher-pre-call-briefs"
+  },
+  {
+    "id": "54-prospect-research-workflow",
+    "title": "Prospect research workflow",
+    "outcome": "Sales & CRM",
+    "platforms": [
+      "Relevance AI"
+    ],
+    "role": "Sales",
+    "difficulty": "Low-code",
+    "setup_time_estimate": "~45m (estimate)",
+    "tools": [
+      "Relevance AI"
+    ],
+    "playbook": [
+      "Follow the prospect research guide.",
+      "Configure research sources and output fields.",
+      "Run on your prospect list."
+    ],
+    "source_url": "https://relevanceai.com/docs/guides/sales/prospect-research-use-case",
+    "source_credit": "Relevance AI docs",
+    "status": "official example",
+    "notes": "",
+    "bulletin_url": "https://bulletinai.app/u/54-prospect-research-workflow"
+  },
+  {
+    "id": "55-summarize-a-week-of-emails-on-a-project",
+    "title": "Summarize a week of emails on a project",
+    "outcome": "Inbox & email",
+    "platforms": [
+      "Microsoft Copilot"
+    ],
+    "role": "Ops/manager",
+    "difficulty": "No-code",
+    "setup_time_estimate": "~2m (estimate)",
+    "tools": [
+      "Copilot Chat in Outlook"
+    ],
+    "playbook": [
+      "Open Copilot Chat in Outlook.",
+      "Prompt: \"Summarize my emails from the last week related to [project or customer name].\""
+    ],
+    "source_url": "https://support.microsoft.com/en-us/outlook/copilot-outlook/chat-with-copilot-in-outlook",
+    "source_credit": "Microsoft Support",
+    "status": "official example",
+    "notes": "",
+    "bulletin_url": "https://bulletinai.app/u/55-summarize-a-week-of-emails-on-a-project"
+  },
+  {
+    "id": "56-prioritize-unread-email-copilot-license",
+    "title": "Prioritize unread email (Copilot license)",
+    "outcome": "Inbox & email",
+    "platforms": [
+      "Microsoft Copilot"
+    ],
+    "role": "Ops/manager",
+    "difficulty": "No-code",
+    "setup_time_estimate": "~2m (estimate)",
+    "tools": [
+      "Microsoft 365 Copilot in Outlook"
+    ],
+    "playbook": [
+      "Prompt: \"Which unread emails are most important? Summarize them, synthesize any related context from my chats and documents, and prioritize the order in which I should respond.\""
+    ],
+    "source_url": "https://support.microsoft.com/en-us/outlook/copilot-outlook/chat-with-copilot-in-outlook",
+    "source_credit": "Microsoft Support",
+    "status": "official example",
+    "notes": "Requires a Microsoft 365 Copilot add-on license.",
+    "bulletin_url": "https://bulletinai.app/u/56-prioritize-unread-email-copilot-license"
+  },
+  {
+    "id": "57-catch-up-on-a-teams-chat",
+    "title": "Catch up on a Teams chat",
+    "outcome": "Meetings & notes",
+    "platforms": [
+      "Microsoft Copilot"
+    ],
+    "role": "Ops/manager",
+    "difficulty": "No-code",
+    "setup_time_estimate": "~1m (estimate)",
+    "tools": [
+      "Copilot in Teams"
+    ],
+    "playbook": [
+      "Open a chat and select Open Copilot.",
+      "Try: \"Summarize what I've missed.\" or \"What were the key takeaways from last month?\""
+    ],
+    "source_url": "https://support.microsoft.com/en-us/teams/copilot/how-to-use-microsoft-365-copilot-in-teams-chats-and-channels",
+    "source_credit": "Microsoft Support",
+    "status": "official example",
+    "notes": "",
+    "bulletin_url": "https://bulletinai.app/u/57-catch-up-on-a-teams-chat"
+  },
+  {
+    "id": "58-30-day-project-synthesis-across-email-meetings-and",
+    "title": "30-day project synthesis across email, meetings and chats",
+    "outcome": "Research & briefings",
+    "platforms": [
+      "Microsoft Copilot"
+    ],
+    "role": "Ops/manager",
+    "difficulty": "No-code",
+    "setup_time_estimate": "~5m (estimate)",
+    "tools": [
+      "Copilot Chat in Teams"
+    ],
+    "playbook": [
+      "Prompt: \"Summarize all my emails, meetings, and chats over the past 30 days related to {topic}.\"",
+      "Then ask for all open action items for you on that topic.",
+      "Ask Copilot to draft a stakeholder announcement."
+    ],
+    "source_url": "https://microsoftlearning.github.io/MS-4004-Empower-workforce-copilot-use-cases/Instructions/Labs/M01-empower-workforce-copilot-executives/01-Ex1-1-use-teams-synthesize-communications.html",
+    "source_credit": "Microsoft Learning lab",
+    "status": "official example",
+    "notes": "",
+    "bulletin_url": "https://bulletinai.app/u/58-30-day-project-synthesis-across-email-meetings-and"
+  },
+  {
+    "id": "59-copilot-prompt-gallery-who-s-waiting-on-me",
+    "title": "Copilot prompt gallery: who's waiting on me",
+    "outcome": "Inbox & email",
+    "platforms": [
+      "Microsoft Copilot"
+    ],
+    "role": "Ops/manager",
+    "difficulty": "No-code",
+    "setup_time_estimate": "~2m (estimate)",
+    "tools": [
+      "Microsoft 365 Copilot"
+    ],
+    "playbook": [
+      "Open the Copilot Prompt Gallery.",
+      "Use the prompt to find emails from the past 48 hours where someone is waiting on you.",
+      "Reply in priority order."
+    ],
+    "source_url": "https://www.adoption.microsoft.com/en-us/copilot/prompt-gallery/",
+    "source_credit": "Microsoft Adoption prompt gallery",
+    "status": "official example",
+    "notes": "",
+    "bulletin_url": "https://bulletinai.app/u/59-copilot-prompt-gallery-who-s-waiting-on-me"
+  },
+  {
+    "id": "60-build-a-balanced-weekly-work-plan",
+    "title": "Build a balanced weekly work plan",
+    "outcome": "Calendar & planning",
+    "platforms": [
+      "ChatGPT"
+    ],
+    "role": "Ops/manager",
+    "difficulty": "No-code",
+    "setup_time_estimate": "~3m (estimate)",
+    "tools": [
+      "ChatGPT"
+    ],
+    "playbook": [
+      "Prompt: \"Build a weekly work plan for [describe role or situation]. The week includes deadlines, meetings, and individual focus time. Provide a balanced schedule with recommended priorities.\""
+    ],
+    "source_url": "https://academy.openai.com/public/clubs/work-users-ynjqu/resources/chatgpt-for-any-role",
+    "source_credit": "OpenAI Academy — ChatGPT for any role",
+    "status": "official example",
+    "notes": "",
+    "bulletin_url": "https://bulletinai.app/u/60-build-a-balanced-weekly-work-plan"
+  },
+  {
+    "id": "61-stakeholder-project-update-draft",
+    "title": "Stakeholder project update draft",
+    "outcome": "Business ops & analysis",
+    "platforms": [
+      "ChatGPT"
+    ],
+    "role": "Ops/manager",
+    "difficulty": "No-code",
+    "setup_time_estimate": "~3m (estimate)",
+    "tools": [
+      "ChatGPT"
+    ],
+    "playbook": [
+      "Prompt: \"Draft a short project update for stakeholders. The project is [describe project]. Include progress made, current blockers, and next steps.\""
+    ],
+    "source_url": "https://academy.openai.com/public/clubs/work-users-ynjqu/resources/chatgpt-for-any-role",
+    "source_credit": "OpenAI Academy — ChatGPT for any role",
+    "status": "official example",
+    "notes": "",
+    "bulletin_url": "https://bulletinai.app/u/61-stakeholder-project-update-draft"
+  },
+  {
+    "id": "62-build-customer-personas-from-research",
+    "title": "Build customer personas from research",
+    "outcome": "Business ops & analysis",
+    "platforms": [
+      "Claude"
+    ],
+    "role": "Marketer",
+    "difficulty": "No-code",
+    "setup_time_estimate": "~15m (estimate)",
+    "tools": [
+      "Claude"
+    ],
+    "playbook": [
+      "Upload your research data (interviews, surveys).",
+      "Ask Claude to synthesize personas with demographics, goals and pain points."
+    ],
+    "source_url": "https://claude.com/resources/use-cases",
+    "source_credit": "Claude — Use cases gallery",
+    "status": "official example",
+    "notes": "",
+    "bulletin_url": "https://bulletinai.app/u/62-build-customer-personas-from-research"
+  },
+  {
+    "id": "63-daily-travel-itinerary",
+    "title": "Daily travel itinerary",
+    "outcome": "Personal life & health",
+    "platforms": [
+      "Claude"
+    ],
+    "role": "Personal/household",
+    "difficulty": "No-code",
+    "setup_time_estimate": "~10m (estimate)",
+    "tools": [
+      "Claude"
+    ],
+    "playbook": [
+      "Describe destination, dates and preferences.",
+      "Ask Claude for a day-by-day itinerary adapted to your desired activities."
+    ],
+    "source_url": "https://claude.com/resources/use-cases",
+    "source_credit": "Claude — Use cases gallery",
+    "status": "official example",
+    "notes": "",
+    "bulletin_url": "https://bulletinai.app/u/63-daily-travel-itinerary"
+  },
+  {
+    "id": "64-sentiment-analyzer-gem-for-customer-feedback",
+    "title": "Sentiment analyzer Gem for customer feedback",
+    "outcome": "Business ops & analysis",
+    "platforms": [
+      "Gemini"
+    ],
+    "role": "Ops/manager",
+    "difficulty": "No-code",
+    "setup_time_estimate": "~10m (estimate)",
+    "tools": [
+      "Gemini (Workspace add-on)"
+    ],
+    "playbook": [
+      "Open the premade Sentiment analyzer Gem.",
+      "Paste or attach customer feedback.",
+      "Ask for sentiment trends over time."
+    ],
+    "source_url": "https://workspaceupdates.googleblog.com/2024/12/more-premade-gems-for-the-gemini-app.html",
+    "source_credit": "Google Workspace Updates",
+    "status": "official example",
+    "notes": "Premade business Gems require a Gemini for Workspace add-on (per source).",
+    "bulletin_url": "https://bulletinai.app/u/64-sentiment-analyzer-gem-for-customer-feedback"
+  },
+  {
+    "id": "65-use-a-gem-inside-docs-gmail-side-panel",
+    "title": "Use a Gem inside Docs/Gmail side panel",
+    "outcome": "Content & social",
+    "platforms": [
+      "Gemini"
+    ],
+    "role": "Marketer",
+    "difficulty": "No-code",
+    "setup_time_estimate": "~10m (estimate)",
+    "tools": [
+      "Gemini Gems",
+      "Google Workspace"
+    ],
+    "playbook": [
+      "Create a copywriting Gem pre-loaded with your audience.",
+      "Open Ask Gemini in the Docs/Drive side panel.",
+      "Use the Gem to draft posts without switching apps."
+    ],
+    "source_url": "https://workspaceupdates.googleblog.com/2025/07/gems-in-the-side-panel-of-google-workspace-apps.html",
+    "source_credit": "Google Workspace Updates",
+    "status": "official example",
+    "notes": "",
+    "bulletin_url": "https://bulletinai.app/u/65-use-a-gem-inside-docs-gmail-side-panel"
+  }
+]

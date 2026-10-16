@@ -1,0 +1,28 @@
+Creative Commons Attribution 4.0 International License (CC BY 4.0)
+
+SPDX-License-Identifier: CC-BY-4.0
+
+The curated dataset in this repository is licensed under the Creative Commons Attribution 4.0 International License.
+
+You are free to share and adapt this material for any purpose, including commercial use, under the terms of that license. Attribution must include appropriate credit, a link to the license, and an indication if you made changes.
+
+License deed: https://creativecommons.org/licenses/by/4.0/
+Legal code: https://creativecommons.org/licenses/by/4.0/legalcode
+
+## What the license covers
+
+This CC BY 4.0 license applies to BulletinAI’s compilation and the descriptive material published in this repository, including:
+
+- data/usecases.json
+- data/categories.md
+- the catalog documentation in README.md and CONTRIBUTING.md
+
+Suggested attribution:
+
+BulletinAI use cases, https://bulletinai.app, licensed under CC BY 4.0.
+
+## Sources retain their own rights
+
+Each use case links to and credits an original source: vendor documentation, official examples, community templates, or third-party lists. Those sources remain under the copyright and license terms chosen by their authors and publishers.
+
+CC BY 4.0 covers this repository’s selection, taxonomy, and playbook summaries. It does not transfer, waive, or relicense the underlying source materials. When you reuse a source’s text, template, screenshot, or brand, follow that source’s own terms.
